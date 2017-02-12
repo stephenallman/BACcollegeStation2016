@@ -169,7 +169,7 @@ return [
         Laravel\Tinker\TinkerServiceProvider::class,
         Collective\Html\HtmlServiceProvider::class,
         'rudrarajiv\flipbooklaravel\FlipBookServiceProvider',
-        'GrahamCampbell\DigitalOcean\DigitalOceanServiceProvider',
+       
 
         /*
          * Application Service Providers...

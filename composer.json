@@ -6,12 +6,10 @@
     "type": "project",
     "require": {
         "php": ">=5.6.4",
-        "graham-campbell/digitalocean": "^3.2",
         "laravel/framework": "5.4.*",
         "laravel/tinker": "~1.0",
         "laravelcollective/html": "^5.2.0",
-        "rudrarajiv/flipbooklaravel": "dev-master",
-        "guzzle/guzzle": "^3.7"
+        "rudrarajiv/flipbooklaravel": "dev-master"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
