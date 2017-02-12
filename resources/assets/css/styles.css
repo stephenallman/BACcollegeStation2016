@@ -1,0 +1,85 @@
+@charset "utf-8";
+
+
+ body{
+
+	}
+
+
+table{
+
+}
+	
+header, footer, nav{
+	
+}
+
+th, td{
+	border-bottom: 1px solid #ddd;
+}
+
+td{
+	text-align: left;	
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+	
+th {
+	background-color: #0D0967;
+	color: #FBF7F7;
+	font-weight: bold;	
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+.tab{
+	padding-top: 20px;
+}
+.panel-heading{
+	font-weight: bold;	
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 15px;
+}
+
+.out{
+	padding-top: 20px;
+	padding-right: 25px;
+}
+
+.nav-logo
+{
+	padding: 10px;
+	
+}
+.logo{
+	padding-left: 30px;
+}
+.nav-home
+{
+	padding-left: 15px;
+}
+.Item-cell
+{
+	text-align: center;
+}
+.foot{
+	padding-left: 50px;
+	padding-top: 500px;
+}
+
+.inventory
+{
+	text-align: center;
+}
+
+.checklist
+{
+	text-align: center;
+}
+.edit
+{
+	width: 50%;
+}
+
